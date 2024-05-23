@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo 
 
-This app is hosted on Netlify, [check it out](https://yt-clone12.netlify.app/).
+This app is hosted on Netlify, check it out [here](https://yt-clone12.netlify.app/).
 
 ## Available Scripts
 
